@@ -21,3 +21,4 @@ for(let i=0; i<btnOpenModal.length; i++){
 
 btnCloseModal.addEventListener('click', addClass);
 overlay.addEventListener('click',addClass);
+
